@@ -1,0 +1,29 @@
+{
+    "fameworks": [
+        {
+            "id": 1,
+            "name": "React",
+            "web": "www.react.com"
+        },
+        {
+            "id": 2,
+            "name": "Angular",
+            "web": "www.angular.com"
+        },
+        {
+            "id": 3,
+            "name": "Vue",
+            "web": "www.vue.com"
+        },
+        {
+            "id": 4,
+            "name": "Polymer",
+            "web": "www.polumer.com"
+        },
+        {
+            "id": 5,
+            "name": "Svelt",
+            "web": "www.svelt.com"
+        }
+    ]
+}
